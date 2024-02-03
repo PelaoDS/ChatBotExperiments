@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, jsonify
 import openai
 
+# OBS: OJO QUE completion.model_name y completion.messages[0].content están hardcodeados
+
 app = Flask(__name__)
 
 # Set up OpenAI API credentials
@@ -22,9 +24,9 @@ def api():
 
         # Send the message to OpenAI's API and receive the response
         completion = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model="ft:gpt-3.5-turbo-0613:personal::8oDxipKY",
             messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "system", "content": "Dado el interés de un cliente en un auto usado en Chile, proporcionarás información experta, cortés y respetuosa para facilitar la venta.`. Feel free to re-run this cell if you want a better result.."},
                 {"role": "user", "content": message}
             ]
         )
