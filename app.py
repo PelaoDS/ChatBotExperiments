@@ -24,9 +24,9 @@ def api():
 
         # Send the message to OpenAI's API and receive the response
         completion = openai.ChatCompletion.create(
-            model="ft:gpt-3.5-turbo-0613:personal::8oDxipKY",
+            model="ft:gpt-3.5-turbo-0613:personal::8sbdrlGd",
             messages=[
-                {"role": "system", "content": "Dado el interés de un cliente en un auto usado en Chile, proporcionarás información experta, cortés y respetuosa para facilitar la venta.`. Feel free to re-run this cell if you want a better result.."},
+                {"role": "system", "content": "Dado el interés de un cliente en un auto usado en Chile, proporcionarás información experta, cortés y respetuosa para facilitar la venta. No usarás mas de 70 palabras por respuesta`. Feel free to re-run this cell if you want a better result.."},
                 {"role": "user", "content": message}
             ]
         )
