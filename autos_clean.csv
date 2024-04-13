@@ -1,0 +1,51 @@
+,marca,modelo,version,precio,gasolina,anio,kms,potencia,puertas,cambios,color
+0,SEAT,Toledo,SEAT Toledo  4p.,980000,Diésel,2000,227000,,4,Manual,Verde
+1,CITROEN,C1,CITROEN C1 PureTech 60KW 82CV Feel 5p.,6370000,Gasolina,2017,50071,82,5,Manual,Blanco
+2,FORD,Transit Connect,FORD Transit Connect Van 1.5 TDCi 100cv Ambiente 200 L1,8070000,Diésel,2016,103000,100,4,Manual,Blanco
+3,VOLKSWAGEN,Caravelle,VOLKSWAGEN Caravelle Largo 2.0 TDI 140 Comfortlin Edition BMT,19970000,Diésel,2014,120000,140,4,Manual,Blanco
+4,FORD,Transit,FORD Transit 350 96kW L4 Ambiente Propulsion Trasera,23490000,Diésel,2017,107000,130,2,Manual,Blanco
+5,PEUGEOT,3008,PEUGEOT 3008 Style 1.2 PureTech 130 SS 5p.,11810000,Gasolina,2016,78665,130,5,Manual,Blanco
+6,LAND-ROVER,Discovery Sport,LAND-ROVER Discovery Sport 2.0L TD4 110kW 150CV 4x4 Pure 5p.,29300000,Diésel,2017,36238,150,5,Automático,Blanco
+7,HONDA,Civic,HONDA Civic 2.2 iDTEC Sport 5p.,8430000,Diésel,2012,203000,150,5,Manual,Blanco
+8,CITROEN,Berlingo,CITROEN Berlingo Multispace 20 Aniv. PureTech 81KW110CV 5p.,12440000,Gasolina,2018,45000,110,5,Manual,Azul
+9,NISSAN,NOTE,NISSAN NOTE 5p. 1.2G 80CV Acenta NissanConnect 5p.,6480000,Gasolina,2016,77000,80,5,Manual,Blanco
+10,CITROEN,Berlingo,CITROEN Berlingo Multispace 20 Aniv.BlueHDi 74KW 100CV,14290000,Diésel,2017,81000,100,5,Manual,Gris / Plata
+11,VOLKSWAGEN,Golf,VOLKSWAGEN Golf  3p.,1750000,Diésel,1990,350000,,3,Manual,Rojo
+12,VOLKSWAGEN,Polo,VOLKSWAGEN Polo 75 Trendline Auto 3p.,1340000,Gasolina,2001,217000,75,3,Manual,Azul
+13,MERCEDES-BENZ,Clase CL,MERCEDES-BENZ Clase CL CL 500 2p.,7090000,Gasolina,2001,169450,306,2,Automático,Gris / Plata
+14,FIAT,Panda,FIAT Panda 4X4 1.3 70kW 95CV Diesel E6 5p.,9770000,Diésel,2017,101623,95,5,Manual,296 Blanco Gelato (pastel)
+15,SKODA,Octavia,SKODA Octavia 1.0 TSI 85KW 115CV Ambition 5p.,14380000,Gasolina,2019,7591,115,5,Manual,Gris / Plata
+16,BMW,Serie 3,BMW Serie 3  5p.,4320000,Diésel,2005,240000,,5,Automático,Gris / Plata
+17,CITROEN,C-Elysée,CITROEN CElysee VTi 115cv Exclusive 4p.,5130000,Gasolina,2014,80000,115,4,Manual,Gris / Plata
+18,MAZDA,Mazda5,MAZDA,5240000,Diésel,2009,189500,,5,Manual,Negro
+19,BMW,Serie 1,BMW,6070000,Diésel,2009,129000,,3,Manual,Marrón
+20,FIAT,Doblò,FIAT Doblò Panorama Family 7pl 1.9 Multijet DPF 5p.,8220000,Diésel,2010,135000,120,5,Manual,Granate
+21,FORD,C-Max,FORD CMax 1.0 EcoBoost 92kW 125CV Trend 5p.,13060000,Gasolina,2018,53000,125,5,Manual,Gris / Plata
+22,CITROEN,C3,CITROEN C3 PureTech 50KW 68CV FEEL 5p.,12840000,Gasolina,2019,13000,68,5,Manual,Negro
+23,VOLKSWAGEN,Phaeton,VOLKSWAGEN Phaeton  5p.,3860000,Diésel,2006,400,,5,Automático,Verde
+24,BMW,Serie 1,BMW Serie 1 116d 5p.,29710000,Diésel,2020,5000,116,5,Automático,Gris / Plata (B39 Pintura metalizada Mineralgrau)
+25,OPEL,Astra,OPEL Astra 1.7 CDTi SS 130 CV Excellence 5p.,8730000,Diésel,2014,139990,130,5,Manual,Gris / Plata
+26,AUDI,A3,AUDI A3 Sportback 2.0 TDI Ambition 5p.,5140000,Diésel,2006,222500,140,5,Manual,Gris / Plata
+27,VOLVO,XC60,VOLVO XC60 2.4D Summum Auto 5p.,11190000,Diésel,2009,214650,175,5,Automático,Blanco
+28,MITSUBISHI,ASX,MITSUBISHI ASX 160 DID Motion 4WD 5p.,15730000,Diésel,2016,67602,114,5,Manual,Gris / Plata
+29,FORD,Focus,FORD Focus 1.0 Ecoboost 92kW Trend 5p.,13150000,Gasolina,2018,29000,125,5,Manual,Gris / Plata
+30,FIAT,500L,FIAT 500L 1.6 16v Multijet II 120CV SS Lounge 5p.,13160000,Diésel,2016,60029,120,5,Manual,Rojo
+31,BMW,Serie 3,BMW Serie 3 320D 2p.,10280000,Diésel,2009,162000,177,2,Automático,Blanco
+32,FORD,S-MAX,FORD SMAX 2.0 TDCi Panther 110kW Titanium Pow 5p.,30120000,Diésel,2019,11936,150,5,Automático,Negro
+33,RENAULT,Captur,RENAULT Captur Zen TCe 66kW 90CV 5p.,15060000,Gasolina,2019,14000,90,5,Manual,Blanco
+34,SEAT,Ibiza,SEAT Ibiza 1.0 EcoTSI 81kW 110CV FR DSG 5p.,11720000,Gasolina,2017,28000,110,5,Automático,Negro
+35,KIA,Sportage,KIA Sportage  5p.,4630000,Diésel,2008,128000,,5,Manual,Gris / Plata
+36,BMW,Serie 5,BMW Serie 5 520D 4p.,19430000,Diésel,2014,99800,190,4,Automático,Azul
+37,PEUGEOT,508 Hybrid,PEUGEOT 508 Hybrid SW GT Line 225 eEAT8 5p.,38040000,Híbrido enchufable,2020,1200,225,5,Automático,Blanco (Blanco nacarado)
+38,PEUGEOT,308,PEUGEOT 308 SW Style 1.6 BlueHDi 120 EAT6 5p.,6940000,Diésel,2015,215000,120,5,Automático,Negro
+39,KIA,XCeed,KIA XCeed 1.6 GDi PHEV 104kW 141CV eMotion 5p.,33200000,Híbrido enchufable,2021,2800,141,5,Manual,Cassa White (WD)
+40,OPEL,Insignia,OPEL Insignia 1.6 CDTI SS 88kW 120CV Business 5p.,9770000,Diésel,2016,101859,120,5,Manual,Blanco (Sensor Parking)
+41,VOLKSWAGEN,Golf,VOLKSWAGEN Golf Variant Advance 1.6 TDI 110CV BMT 5p.,11620000,Diésel,2016,77867,110,5,Manual,Z2Z2 Azul Noche (metalizado)
+42,RENAULT,Clio,RENAULT Clio Limited 1.2 16v 55kW 75CV 18 5p.,9770000,Gasolina,2018,43543,75,5,Manual,Gris / Plata
+43,PEUGEOT,1007,PEUGEOT 1007 1.6 Sporty 2Tronic 3p.,4320000,Gasolina,2007,118000,110,3,Manual,Negro
+44,PEUGEOT,Rifter,PEUGEOT Rifter GT Standard BlueHDi 96kW 5p.,27750000,Diésel,2021,1,130,5,Manual,Gris / Plata (GRIS ARTENSE)
+45,VOLKSWAGEN,Golf Sportsvan,VOLKSWAGEN Golf Sportsvan Business  Navi 1.6 TDI BMT 5p.,15320000,Diésel,2016,155000,115,5,Manual,Gris / Plata
+46,OPEL,Crossland X,OPEL Crossland X 1.2 60kW 81CV Design Line 120 Anivers. 5p.,19690000,Gasolina,2019,13871,81,5,Manual,Gris / Plata
+47,SEAT,León,SEAT Leon 1.6 TDI 110cv StSp Style 5p.,10790000,Diésel,2016,127000,110,5,Manual,Blanco
+48,MERCEDES-BENZ,Clase A,MERCEDES-BENZ Clase A  5p.,30530000,Diésel,2019,14743,,5,Automático,Blanco (Blanco digital)
+49,SEAT,León,SEAT Leon 2.0 TDI 110kW DSG7 SS FR Go L 5p.,27140000,Diésel,2020,50,150,5,Automático,Negro
